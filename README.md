@@ -28,7 +28,7 @@ $ git clone https://github.com/ripki97/boncot
 
 Tunggu hingga proses cloning selesai, lalu masuk ke directory nya
 
-$ cd boncot97
+$ cd boncot
 
 Selanjutnya kalian tinggal menjalankan tools nya dengan perintah
 
