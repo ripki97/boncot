@@ -32,4 +32,4 @@ $ cd boncot97
 
 Selanjutnya kalian tinggal menjalankan tools nya dengan perintah
 
-$ sh B4J1N64N.sh
+$ sh boncot97.sh
